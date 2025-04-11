@@ -1,18 +1,7 @@
-<div style="position: relative; text-align: center; color: white;">
- <img src="https://github.com/user-attachments/assets/99e635fd-15ae-4188-99e3-ac00b86bbf92" alt="Header" style="width: 100%; height: auto;">
- <div style="
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   background-color: rgba(0, 0, 0, 0.5);
-   border-radius: 10px;
- ">
-   <h1 style="font-size: 3em; margin: 0;">all about particle physics</h1>
- </div>
-</div>
 
-<br>
-
-# Welcome 
-this website is currently in the making. Come back later!
+![Bild website1](https://github.com/user-attachments/assets/5c693ae5-269f-4338-9e49-ce342ed2a19c)
+# Hi there!
+My name is Rosa and I´m currently studying physics and mathematics at TU Graz in Austria. I am particularly interested in particle physics and mathematical physics and therefore working on deepening my understanding of those concepts. This blog is supposed to document my journey on the way to become a particle physicist and how I manage to unravel the secrets of the cosmos. 
+## !Disclaimer!
+I am just a student and I do make mistakes. If you find wrong statements in my work or just want to talk about physics/mathematics in general, don´t hesitate to contact me "rosa@particlephysics.eu"
+"Making mistakes is just a important component of the creative process and we have to teach younger people how to accept that." - Hugo Dominil Copin (winner of the fields medal 2022)
