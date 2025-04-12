@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.header {
+    min-height: 100;
+    width: 100%;
+    backround-image: linear-gradient(rgba(4,9,30,0.7)),url(/Documents/images/Bild.website1.JPG);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
