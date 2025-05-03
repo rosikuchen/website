@@ -336,7 +336,7 @@ input:checked + label + .lightbox {
   }
 .pictures1{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(accelorator.jpg);
-	background-size:auto;
+	background-size:cover;
 	background-repeat: no-repeat;
 	height: 100vh;
 }
