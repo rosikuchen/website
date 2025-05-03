@@ -338,6 +338,7 @@ input:checked + label + .lightbox {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(accelorator.jpg);
 	background-size:auto;
 	background-repeat: no-repeat;
+	height: 100vh;
 }
 .headingtalks{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(TAfel.jpg);
@@ -357,7 +358,7 @@ input:checked + label + .lightbox {
 }
 
 .headingtalks3{
-margin: 10%;
+	margin: 10%;
 
 }
 .headingtalks4{
