@@ -345,7 +345,7 @@ input:checked + label + .lightbox {
 	background-size: cover;
 	height: 100vh;
 	background-position: center;
-	
+}
 	
 .headingtalks6{
 	position: absolute;
@@ -354,11 +354,8 @@ input:checked + label + .lightbox {
 	transform: translate(-50%,-50%);
 	color:white;
 	text-align: center;
-
 }
 
-
-}
 .headingtalks3{
 margin: 10%;
 
