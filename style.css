@@ -335,9 +335,8 @@ input:checked + label + .lightbox {
 	border-radius: 12px;
   }
 .pictures1{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(accelorator.jpg);
+	background-color: antiquewhite;
 	background-size:cover;
-	background-repeat: no-repeat;
 	height: 100vh;
 }
 .headingtalks{
