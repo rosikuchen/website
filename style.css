@@ -54,6 +54,8 @@ p {
 	margin-bottom: 1rem;
 	margin-left: 20px;
 	font-size: medium;
+	line-height: 29px;
+
 
 }
 
@@ -481,6 +483,8 @@ label img {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+
+
 }
 
 .headingprojects2 {
