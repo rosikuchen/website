@@ -103,7 +103,7 @@ header {
 	background-position: center;
 	justify-content: center;
 	align-items: center;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(background.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(backiii.jpg);
 	background-size: cover;
 
 }
@@ -207,7 +207,7 @@ header {
 }
 
 .Contact {
-	background-color: rgb(136, 185, 201);
+	background-color: rgb(68, 69, 69);
 	margin-top: 10px;
 	padding-top: 20px;
 	padding-bottom: 10px;
