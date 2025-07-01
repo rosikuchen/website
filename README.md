@@ -1,5 +1,4 @@
 
-![Bild website1](https://github.com/user-attachments/assets/5c693ae5-269f-4338-9e49-ce342ed2a19c)
 # Hi there!
 My name is Rosa and I´m currently studying physics and mathematics at TU Graz in Austria. I am particularly interested in particle physics and mathematical physics and therefore working on deepening my understanding of those concepts. This blog is supposed to document my journey on the way to become a particle physicist and how I manage to unravel the secrets of the cosmos. 
 ## !Disclaimer!
