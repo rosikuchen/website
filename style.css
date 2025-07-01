@@ -472,17 +472,26 @@ label img {
 	margin: 10%;
 }
 
-.headingprojects {
+.preheadingprojects {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url(Bild.website1.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
 	background-position: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.headingprojects1 {
 	color: white;
-	align-content: center;
 	text-align: center;
 }
 
+
 .headingprojects2 {
 	margin: 10%;
+	height: 100vh;
+
 }
