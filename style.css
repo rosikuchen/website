@@ -461,7 +461,6 @@ label img {
 }
 
 .Hass {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url(Bild.website1.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
@@ -473,7 +472,7 @@ label img {
 }
 
 .preheadingprojects {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url(Bild.website1.JPG);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)), url(Whiteboard.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
